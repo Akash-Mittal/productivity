@@ -5,6 +5,8 @@ import java.io.Serializable;
 public class Config implements Serializable {
 
 	private String placeholder;
+	private String githubreposapiurl;
+
 	private final static long serialVersionUID = 2280113332062323909L;
 
 	public String getPlaceholder() {
@@ -15,4 +17,11 @@ public class Config implements Serializable {
 		this.placeholder = placeholder;
 	}
 
+	public String getGithubreposapiurl() {
+		return githubreposapiurl;
+	}
+
+	public void setGithubreposapiurl(String githubreposapiurl) {
+		this.githubreposapiurl = githubreposapiurl;
+	}
 }
