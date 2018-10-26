@@ -6,6 +6,11 @@
 
 * Eclipse Plugins for Every Day Usage.
 * Eclipse Code Formatter Template.
-* Template Repo.
+* Template Project.
   * Spring Boot Maven Parent Child Project Template.
-  * 
+* Builder Project.
+   * Generate `Git Hub Badges`
+   * Generate `Sonar Badges`
+   * Generate `lgtm Badges`
+   * Generate `travis Badges`
+ 
