@@ -23,7 +23,23 @@ spring:
       enabled: true
       path: /h2
 server:
-  port: 9999
+  port: 7979
+  
+badges: 
+  github: 
+    issues: "[![GitHub issues](https://img.shields.io/github/issues/Akash-Mittal/REPONAME.svg)](https://github.com/Akash-Mittal/REPONAME/issues)" 
+    forks: "[![GitHub forks](https://img.shields.io/github/forks/Akash-Mittal/REPONAME.svg)](https://github.com/Akash-Mittal/REPONAME/network)"
+    stars:  "[![GitHub stars](https://img.shields.io/github/stars/Akash-Mittal/REPONAME.svg)](https://github.com/Akash-Mittal/REPONAME/stargazers)"
+    license:  "[![GitHub license](https://img.shields.io/github/license/Akash-Mittal/REPONAME.svg)](https://github.com/Akash-Mittal/REPONAME/blob/master/LICENSE)"
+  sonar:
+    measure:
+  lgtm:
+    alerts:
+    grade:
+  travis:
+    status:   
+  config:
+    placeholder: REPONAME
 ---
 
 spring:
@@ -51,4 +67,4 @@ spring:
    properties:
     hibernate.dialect: org.hibernate.dialect.MySQL5InnoDBDialect  
 server:
-  port: 0
+  port: 8080

@@ -2,6 +2,7 @@ package com.am.innovations.builder.controller;
 
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.util.Arrays;
 import java.util.concurrent.ExecutionException;
 
 import org.slf4j.Logger;
@@ -16,6 +17,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import com.am.innovations.builder.configurations.yml.BadgesConfiguration;
+
 @RestController
 @RequestMapping("/V_1.0")
 public class RepoController {
@@ -25,14 +28,21 @@ public class RepoController {
 	@Autowired
 	private RestTemplate restTemplate;
 
-	@GetMapping("/hello")
+	@Autowired
+	private BadgesConfiguration badgesConfiguration;
+
+	@GetMapping("/issues")
 	public String get(@RequestParam(value = "userName") String userName)
 			throws InterruptedException, ExecutionException, URISyntaxException {
 		URI uri = new URI("https://api.github.com/users/" + userName + "/repos");
 		logger.info("Calling {}", uri.toString());
 		RequestEntity<?> request1 = RequestEntity.get(uri).accept(MediaType.APPLICATION_JSON).build();
 		ResponseEntity<GitRepoResponse[]> response = restTemplate.exchange(request1, GitRepoResponse[].class);
-		return response.getBody().toString();
+		StringBuilder stringBuilder = new StringBuilder();
+		String GIT_ISSUES_BADGE_URL = "[![GitHub issues](https://img.shields.io/github/issues/Akash-Mittal/REPONAME.svg)](https://github.com/Akash-Mittal/REPONAME/issues)";
+		Arrays.stream(response.getBody()).forEach(repo -> stringBuilder
+				.append(badgesConfiguration.getGithub().getIssues().replace("REPONAME", repo.getName())).append("\n"));
+		return stringBuilder.toString();
 	}
 
 }
