@@ -8,6 +8,7 @@ public class Github implements Serializable {
 	private String forks;
 	private String stars;
 	private String license;
+
 	private final static long serialVersionUID = -3610764364456845316L;
 
 	public String getIssues() {

@@ -5,14 +5,14 @@ import java.io.Serializable;
 
 public class Sonar implements Serializable {
 
-	private Object measure;
+	private String measure;
 	private final static long serialVersionUID = 4464600071772226413L;
 
-	public Object getMeasure() {
+	public String getMeasure() {
 		return measure;
 	}
 
-	public void setMeasure(Object measure) {
+	public void setMeasure(String measure) {
 		this.measure = measure;
 	}
 
