@@ -1,4 +1,4 @@
-package src.main.java.com.am.innovations.child.one;
+package com.am.innovations.child.one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
