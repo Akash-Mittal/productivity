@@ -1,5 +1,6 @@
 # Productivity 
-## This Repo for `tools`, `plugins`, `template projects` to get started really quick.
+
+### `tools`, `plugins` and `template projects` to get started really quick and to get most out of daily work.
 
 ### Index.
 
