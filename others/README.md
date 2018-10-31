@@ -1,16 +1,8 @@
-# Productivity 
-
-### `tools`, `plugins` and `template projects` to get started really quick and to get most out of daily work.
-
-### Index.
-
-* Eclipse Plugins for Every Day Usage.
-* Eclipse Code Formatter Template.
-* Template Project.
-  * Spring Boot Maven Parent Child Project Template.
-* Builder Project.
-   * Generate `Git Hub Badges`
-   * Generate `Sonar Badges`
-   * Generate `lgtm Badges`
-   * Generate `travis Badges`
- 
+<h1 align="center">
+<br>
+  <a href="https://github.com/Akash-Mittal/productivity"><img src="https://github.com/Akash-Mittal/productivity/blob/master/others/Github-Halloween-Hack.png" alt="Github Changed Contribution Color on Halloween 31 October 2018." width=400 hieght=400"></a>
+  <br>
+    <br>
+  Github Changed Contribution Color on Halloween 31 October 2018.
+  <br><br>
+</h1>
