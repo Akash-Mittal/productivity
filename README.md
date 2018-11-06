@@ -17,12 +17,22 @@
 
 ### Required Application to Upstart Dev Environment.
 
-Sr. No.        | Application           | Need Class Path setting
+Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
-| 1      | Java 8 | Yes 
-| 2      | Java 9 | Yes 
-| 3      | Java 11 | Yes 
-| 4      | Git | Yes 
+| 1      | Java 8 | Yes K:\JAVA8
+| 2      | Java 9 | Yes K:\JAVA9
+| 3      | Java 11 | Yes K:\JAVA11
+| 4      | Git | Yes K:\GIT
+| 5      | Tortoise Git | No
+| 6      | Smart Git | No
+| 7      | Eclipse STS | Not Needed.
+| 8      | MAVEN | Yes K:\MAVEN
+| 9      | GRADLE | Yes K:\GRADLE
+| 10      | SCALA | Yes K:\SCALA
+| 11      | MYSQL | No
+| 12      | MongoDB | No
+| 13      | Node.js | No
+
 
 
 
