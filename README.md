@@ -17,6 +17,8 @@
 
 ### Required Application to Upstart Dev Environment.
 
+### Global
+
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
 | 1      | Java 8 | Yes K:\JAVA8
@@ -31,8 +33,16 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 10      | SCALA | Yes K:\SCALA
 | 11      | MYSQL | No
 | 12      | MongoDB | No
-| 13      | Node.js | No
+| 14      | Node.js | No
+| 15      | Docker | No
+| 16      | Kubernetes | No
 
+
+### Work Specific
+
+Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
+| :------------- |:-------------:| :-----:|
+| 1      | VM Ware Horizon Client | No
 
 
 
