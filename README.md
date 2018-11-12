@@ -50,3 +50,4 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 
 https://blogs.technet.microsoft.com/canitpro/2016/06/07/step-by-step-enabling-bash-on-windows-10/
 
+### Run Maven with No Admin Rights.
