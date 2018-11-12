@@ -45,4 +45,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 1      | VM Ware Horizon Client | No
 
 
+**For Windows 10** - Enable Linux Sub System from Develepor options.
+
+https://blogs.technet.microsoft.com/canitpro/2016/06/07/step-by-step-enabling-bash-on-windows-10/
 
