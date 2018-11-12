@@ -36,6 +36,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 14      | Node.js | No
 | 15      | Docker | No
 | 16      | Kubernetes | No
+| 17      | Notepad ++  | No
 
 
 ### Work Specific
