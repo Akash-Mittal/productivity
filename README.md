@@ -51,8 +51,15 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 
 https://blogs.technet.microsoft.com/canitpro/2016/06/07/step-by-step-enabling-bash-on-windows-10/
 
-### Run Maven with No Admin Rights.
+### Run Maven and JAVA with No Admin Rights WINDOWS.
 
+```
+C:\dev\MAVEN\apache-maven-3.6.0
+set MAVEN_HOME=C:\dev\MAVEN\apache-maven-3.6.0
+set JAVA_HOME=C:\dev\JAVA9
+PATH=%PATH%;%MAVEN_HOME%\bin;%JAVA_HOME%\bin
+mvn clean insatll
+```
 ### Chrome Extenstions for Add Block.
  * https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
  * https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik?utm_source=chrome-ntp-icon
