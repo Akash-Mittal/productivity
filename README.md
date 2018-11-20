@@ -52,10 +52,6 @@ https://blogs.technet.microsoft.com/canitpro/2016/06/07/step-by-step-enabling-ba
 set MAVEN_HOME=C:\dev\MAVEN\apache-maven-3.6.0
 set JAVA_HOME=C:\dev\JAVA9
 set GRADLE_HOME=C:\dev\GRADLE\gradle-4.10.2-all\gradle-4.10.2
-PATH=%PATH%;%MAVEN_HOME%\bin;%JAVA_HOME%\bin;%GRADLE_HOME%\bin
-mvn -version
-gradle -version
-java -version
 ```
 
 #### STEP2 ADD TO PATH  
@@ -63,7 +59,7 @@ java -version
 PATH=%PATH%;%MAVEN_HOME%\bin;%JAVA_HOME%\bin;%GRADLE_HOME%\bin
 ```
 
-PS:In case there is other version of Java in path, with now access rights this one will set the new path by rmeoving the previous ones.
+PS:In case there is other version of Java in path, with no admin rights this one will set the new path by removing the previous ones.
 
 #### STEP2 Optional  
 ```
@@ -79,5 +75,6 @@ java -version
 
 
 ### Chrome Extenstions for Add Block.
+
  * https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
  * https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik?utm_source=chrome-ntp-icon
