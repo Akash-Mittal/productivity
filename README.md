@@ -8,13 +8,7 @@
 * Eclipse Code Formatter Template.
 * Template Project.
   * Spring Boot Maven Parent Child Project Template.
-* Builder Project.
-   * Generate `Git Hub Badges`
-   * Generate `Sonar Badges`
-   * Generate `lgtm Badges`
-   * Generate `travis Badges`
  
-
 ### Required Application to Upstart Dev Environment.
 
 ### Global
