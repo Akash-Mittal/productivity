@@ -78,3 +78,11 @@ java -version
 
  * https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
  * https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik?utm_source=chrome-ntp-icon
+
+
+### Maven 
+Quickly Create a Maven Project with Quick Start.
+```
+mvn archetype:generate -DgroupId=com.am.innovations -DartifactId=apps-miner -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+```
