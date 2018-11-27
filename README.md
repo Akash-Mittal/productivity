@@ -28,7 +28,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 11      | MYSQL | No No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker
 | 12      | MongoDB | No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker.
 | 14      | Node.js | No
-| 15      | Docker | No
+| 15      | Docker | No Issue While Installing https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization
 | 16      | Kubernetes | No
 | 17      | Notepad ++ | No
 | 18      | PostMan | No
