@@ -33,6 +33,10 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 17      | Notepad ++ | No
 | 18      | PostMan | No
 | 19      | Winrar | No
+| 20      | AWS CLI | YES https://aws.amazon.com/cli/
+| 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+
 
 
 ### Work Specific
