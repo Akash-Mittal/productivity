@@ -32,6 +32,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 16      | Kubernetes | No
 | 17      | Notepad ++ | No
 | 18      | PostMan | No
+| 19      | Winrar | No
 
 
 ### Work Specific
@@ -39,6 +40,8 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
 | 1      | VM Ware Horizon Client | No
+| 2      | Printer Access | No
+| 3      | VPN Access | No
 
 
 **For Windows 10** - Enable Linux Sub System from Develepor options.
