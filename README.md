@@ -25,8 +25,8 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 8      | MAVEN | Yes K:\MAVEN
 | 9      | GRADLE | Yes K:\GRADLE
 | 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
-| 11      | MYSQL | No
-| 12      | MongoDB | No
+| 11      | MYSQL | No No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker
+| 12      | MongoDB | No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker.
 | 14      | Node.js | No
 | 15      | Docker | No
 | 16      | Kubernetes | No
