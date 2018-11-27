@@ -24,7 +24,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 7      | Eclipse STS | Not Needed.
 | 8      | MAVEN | Yes K:\MAVEN
 | 9      | GRADLE | Yes K:\GRADLE
-| 10      | SCALA | Yes K:\SCALA
+| 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
 | 11      | MYSQL | No
 | 12      | MongoDB | No
 | 14      | Node.js | No
