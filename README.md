@@ -24,15 +24,19 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 7      | Eclipse STS | Not Needed.
 | 8      | MAVEN | Yes K:\MAVEN
 | 9      | GRADLE | Yes K:\GRADLE
-| 10      | SCALA | Yes K:\SCALA
-| 11      | MYSQL | No
-| 12      | MongoDB | No
+| 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
+| 11      | MYSQL | No No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker
+| 12      | MongoDB | No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker.
 | 14      | Node.js | No
-| 15      | Docker | No
+| 15      | Docker | No Issue While Installing https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization
 | 16      | Kubernetes | No
 | 17      | Notepad ++ | No
 | 18      | PostMan | No
 | 19      | Winrar | No
+| 20      | AWS CLI | YES https://aws.amazon.com/cli/
+| 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+
 
 
 ### Work Specific
