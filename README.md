@@ -9,9 +9,8 @@
 * Template Project.
   * Spring Boot Maven Parent Child Project Template.
  
-### Required Application to Upstart Dev Environment.
+### Required Application to Upstart Dev Environment - Windows.
 
-### Global
 
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
@@ -37,8 +36,6 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
 
-
-
 ### Work Specific
 
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
@@ -48,7 +45,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 3      | VPN Access | No
 
 
-**For Windows 10** - Enable Linux Sub System from Develepor options.
+### Enable Linux Sub System from Develepor options
 
 https://blogs.technet.microsoft.com/canitpro/2016/06/07/step-by-step-enabling-bash-on-windows-10/
 
@@ -60,12 +57,10 @@ set MAVEN_HOME=C:\dev\MAVEN\apache-maven-3.6.0
 set JAVA_HOME=C:\dev\JAVA9
 set GRADLE_HOME=C:\dev\GRADLE\gradle-4.10.2-all\gradle-4.10.2
 ```
-
 #### STEP2 ADD TO PATH  
 ```
 PATH=%PATH%;%MAVEN_HOME%\bin;%JAVA_HOME%\bin;%GRADLE_HOME%\bin
 ```
-
 PS:In case there is other version of Java in path, with no admin rights this one will set the new path by removing the previous ones.
 
 #### STEP2 Optional  
