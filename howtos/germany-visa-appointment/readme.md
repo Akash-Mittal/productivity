@@ -3,6 +3,7 @@
  How to book an appointment for  Germany Visa Consulate.
 
 * Create an Account.
+ * https://www.vfsglobalservices-germany.com/Global-Appointment/
 * Add Applicants.
 * Book an Appointment.
 
