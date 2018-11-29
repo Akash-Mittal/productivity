@@ -1,14 +1,14 @@
 # How to book German Visa Appointment.
 
-Step1.) How to book an appointment for  Germany Visa Consulate.
+ How to book an appointment for  Germany Visa Consulate.
 
-Create an Account.
-
-Srep2.) 
+* Create an Account.
+* Add Applicants.
+* Book an Appointment.
 
 Reference
-https://www.quora.com/All-slots-for-German-national-visa-appointments-in-Bangalore-are-booked-what-should-I-do
-
+* https://www.quora.com/All-slots-for-German-national-visa-appointments-in-Bangalore-are-booked-what-should-I-do
+* https://www.quora.com/How-can-I-book-an-appointment-at-the-German-Consulate-in-Bangalore-There-are-no-slots-available-for-the-next-3-months
 
 mittal.akash.adam@gmail.com
 
