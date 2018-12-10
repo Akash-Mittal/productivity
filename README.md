@@ -84,9 +84,9 @@ java -version
 
 * Quickly Create a Maven Project with Quick Start.
 
-       mvn archetype:generate -DgroupId=com.am.innovations -DartifactId=apps-miner -DarchetypeArtifactId=maven-archetype-quickstart - DinteractiveMode=false
+      mvn archetype:generate -DgroupId=com.am.innovations -DartifactId=apps-miner -DarchetypeArtifactId=maven-archetype-quickstart - DinteractiveMode=false
 
 
 How to Specifiy Custom Settings.xml while runninv maven.
        
-         mvn -s c:\dev\settings.xml 
+    mvn -s c:\dev\settings.xml 
