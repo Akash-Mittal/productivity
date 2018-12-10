@@ -1,7 +1,6 @@
 ##  How to Specifiy Custom Settings.xml while runninv maven.
  ```mvn -s c:\dev\settings.xml```
 ## svn: 1175002: SSL handshake failed
-##  Github Changed Contribution Color on Halloween 31 October 2018.
   
 <div align="center">
   <img src="svn-handshake.png" width="200">
@@ -13,3 +12,4 @@ error occurred during the operation execution. For more information see the text
 SVN  Get repository folder children operation failed. svn: 1175002: SSL handshake failed: 
 'Server chose TLSv1, but that protocol version is not enabled or not su orted b the client.' 
 ```
+
