@@ -19,3 +19,6 @@ There are 1000s of application to process and Embassy taked 50-100 appintments a
     Email : info@new-delhi.diplo.de
     Query Form : https://india.diplo.de/in-en/vertretungen/botschaft/kontakt-formular
   
+## Comprehensive List of Documents Needed for Different Categories of Visa.
+
+    https://india.diplo.de/in-en/service/-/1803740
