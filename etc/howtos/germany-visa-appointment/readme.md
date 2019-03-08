@@ -21,4 +21,4 @@ There are 1000s of application to process and Embassy taked 50-100 appintments a
   
 ## Comprehensive List of Documents Needed for Different Categories of Visa.
 
-    https://india.diplo.de/in-en/service/-/1803740
+   * https://india.diplo.de/in-en/service/-/1803740
