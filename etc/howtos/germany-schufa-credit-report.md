@@ -5,5 +5,5 @@
 * It cost 29 Euros to order this report.
 * This report is free once a year.
 * When looking for new Apartment - this report is mostly asked by the landlords.
-* Available at this link.
+* Available at this link for free.
   * https://www.meineschufa.de/site-11_3_1?dako_token=887f22e2862da7b6c1f87e5cc938b29f
