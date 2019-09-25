@@ -11,3 +11,4 @@ Sr. No.        | Plugin           | Info
 | 8    | Secure Assist | [MarketPlace](https://marketplace.eclipse.org/content/cigital-secureassist)
 | 9    | Class Decompiler | [MarketPlace](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3644319)
 | 10    | Class to UML Diagram | [WebSite](https://www.objectaid.com/install-objectaid)
+| 11    | Doccumentation Generation | [WebSite](http://jautodoc.sourceforge.net/index.html#download)
