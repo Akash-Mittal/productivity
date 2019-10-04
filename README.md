@@ -42,6 +42,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 1      | VM Ware Horizon Client | No
 | 2      | Printer Access | No
 | 3      | VPN Access | No
+| 4      | Anti Virus - VPN Approved | No https://download.cnet.com/Panda-Cloud-Antivirus-Free-Edition/3000-2239_4-10914099.html?part=dl-&subj=dl&tag=button&lang=en
 
 
 ### Enable Linux Sub System from Develepor options
