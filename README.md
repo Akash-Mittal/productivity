@@ -13,7 +13,7 @@
 
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
-| 1      | Java 8 11 LTS 12 et al |  [Download Here](https://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+| 1      | `Java 8` `Java 11 LTS` `Java 12` et al |  [Download Here](https://www.oracle.com/technetwork/java/javase/downloads/index.html) 
 | 2      | Kafka | [Download Here](http://apachemirror.wuchna.com/kafka/)
 | 3      | Java 11 | Yes K:\JAVA11
 | 4      | Git | [Download Here](https://git-scm.com/download/win)
@@ -23,12 +23,12 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 8      | MAVEN | Yes K:\MAVEN  [Download Karo](https://maven.apache.org/download.cgi)
 | 9      | GRADLE | Yes K:\GRADLE
 | 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
-| 11      | MYSQL | No No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker
-| 12      | MongoDB | No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker.
+| 11      | MYSQL | [Free DB as Service Online](https://www.db4free.net/) (https://remotemysql.com/)
+| 12      | MongoDB | [Free DB as Service Online](https://mlab.com/)
 | 14      | Node.js | No
 | 15      | Docker | No Issue While Installing https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization
 | 16      | Kubernetes | No
-| 17      | Notepad ++ | No
+| 17      | Notepad ++ | [Download Hair](https://notepad-plus-plus.org/downloads/)
 | 18      | PostMan | No
 | 19      | Winrar | No
 | 20      | AWS CLI | YES https://aws.amazon.com/cli/
