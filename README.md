@@ -75,6 +75,23 @@ gradle -version
 java -version
 ```
 
+###  Create Default Folder Structure.
+
+     ## This Script Aims at 
+     ## Creating Default Folder Structre for  Windows Devlopment Environment 
+     ## Works for Both Windows and Unix
+
+     mkdir java
+     cd java
+     mkdir 8 
+     mkdir 11
+     cd ..
+     mkdir scala kotlin groovy
+     mkdir kafka 
+     mkdir maven gradle  
+     mkdir awscli herokucli 
+     mkdir eclipse eclipse_workspace intellij intellij_workspace notepad++
+
 
 ### Chrome Extenstions for Add Block.
 
