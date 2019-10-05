@@ -13,14 +13,14 @@
 
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
-| 1      | Java 8 | Yes K:\JAVA8 [Download Here] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-| 2      | Java 9 | Yes K:\JAVA9
+| 1      | Java 8 11 LTS 12 et al |  [Download Here](https://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+| 2      | Kafka | [Download Here](http://apachemirror.wuchna.com/kafka/)
 | 3      | Java 11 | Yes K:\JAVA11
-| 4      | Git | Yes K:\GIT
+| 4      | Git | [Download Here](https://git-scm.com/download/win)
 | 5      | Tortoise Git | No
 | 6      | Smart Git | No
-| 7      | Eclipse STS | [Latest Here] (https://spring.io/tools) 
-| 8      | MAVEN | Yes K:\MAVEN
+| 7      | Eclipse STS | [Latest Here](https://spring.io/tools) 
+| 8      | MAVEN | Yes K:\MAVEN  [Download Karo](https://maven.apache.org/download.cgi)
 | 9      | GRADLE | Yes K:\GRADLE
 | 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
 | 11      | MYSQL | No No Mostly Available Over Cloud No Seperate Installation Needed/Can be used with Docker
