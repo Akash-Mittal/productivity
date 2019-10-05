@@ -13,13 +13,13 @@
 
 Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
 | :------------- |:-------------:| :-----:|
-| 1      | Java 8 | Yes K:\JAVA8
+| 1      | Java 8 | Yes K:\JAVA8 [Download Here] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 | 2      | Java 9 | Yes K:\JAVA9
 | 3      | Java 11 | Yes K:\JAVA11
 | 4      | Git | Yes K:\GIT
 | 5      | Tortoise Git | No
 | 6      | Smart Git | No
-| 7      | Eclipse STS | Not Needed.
+| 7      | Eclipse STS | [Latest Here] (https://spring.io/tools) 
 | 8      | MAVEN | Yes K:\MAVEN
 | 9      | GRADLE | Yes K:\GRADLE
 | 10      | SCALA | Yes K:\SCALA https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html
