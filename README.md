@@ -110,7 +110,17 @@ java -version
        
     mvn -s c:\dev\settings.xml 
 
+### Web Tools.
 
-Team AM
+*  JSON Path Finder
+	
+	http://jsonpathfinder.com/
 
+* Awsome Markdown formatting online.
+	
+	https://stackedit.io/app# 
+
+* AI completions for your Java IDE - Need To Check
+	
+	https://www.codota.com/	
 
