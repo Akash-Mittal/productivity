@@ -7,7 +7,19 @@
 * Template Project.
   * Spring Boot Maven Parent Child Project Template.
 * Markdown Table Converter.
- 
+
+### Required Application to Upstart Dev Environment - Linux (Tested on LUbuntu 18X).
+
+ISC - Installastion Script Command
+
+Sr. No.        | Application           | Need Class Path setting (Suppose its Drive K)
+| :------------- |:-------------:| :-----:|
+| 1      | Email Client - MailSpring | ISC sudo snap install mailspring
+[Web](https://getmailspring.com/download)
+| 2      | Package App Installation - SNAPD | ISC sudo apt update sudo apt install snapd
+[Web](https://snapcraft.io/docs/installing-snap-on-lubuntu)
+
+
 ### Required Application to Upstart Dev Environment - Windows.
 
 
