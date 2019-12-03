@@ -42,9 +42,10 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 18      | PostMan | No
 | 19      | Winrar | No
 | 20      | AWS CLI | YES https://aws.amazon.com/cli/
-| 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+| 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and
 | 22      | Microsoft Visudal Studio Code |  https://code.visualstudio.com/Download
 
+| 23     | Yarn Package Manager | YES https://yarnpkg.com/en/docs/install#windows-stable
 
 ### Work Specific
 
