@@ -43,6 +43,7 @@ Sr. No.        | Application           | Need Class Path setting (Suppose its Dr
 | 19      | Winrar | No
 | 20      | AWS CLI | YES https://aws.amazon.com/cli/
 | 21      | HEROKU CLI | YES https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+| 22      | Microsoft Visudal Studio Code |  https://code.visualstudio.com/Download
 
 
 ### Work Specific
