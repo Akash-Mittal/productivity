@@ -1,0 +1,20 @@
+mkdir akash_mittal_workspace
+cd akash_mittal_workspace
+mkdir utils
+mkdir retro
+mkdir 2023
+cd 2023
+mkdir JAN2023
+mkdir FEB2023
+mkdir MAR2023
+mkdir APR2023
+mkdir MAY2023
+mkdir JUN2023
+mkdir JUL2023
+mkdir AUG2023
+mkdir SEP2023
+mkdir OCT2023
+mkdir NOV2023
+mkdir DEC2023
+cd ..
+
