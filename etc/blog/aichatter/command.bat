@@ -66,5 +66,30 @@ set BASE_COLOR_3=F3E99F
 set BASE_COLOR_4=98D8AA
 
 
+========================= TheMotivatedInc ====================
 
-ffmpeg -y -f lavfi -i color=%BASE_COLOR_1%:s=820x312 -vf  "drawtext=text='WebTribe Inc.':fontfile=%FONT_FILE_WTI%:fontsize=100:fontcolor=%BASE_COLOR_1%:x=(w-text_w)/2:y=(h-text_h)/2-100,drawtext=text='WebTribe Inc.':fontfile=%FONT_FILE_WTI%:fontsize=100:fontcolor=%BASE_COLOR_2%:x=(w-text_w)/2:y=(h-text_h)/2-100,drawtext=text='WebTribe Inc.':fontfile=%FONT_FILE_WTI%:fontsize=100:fontcolor=%BASE_COLOR_3%:x=(w-text_w)/2:y=(h-text_h)/2-100,drawtext=text='WebTribe Inc.':fontfile=%FONT_FILE_WTI%:fontsize=100:fontcolor=%BASE_COLOR_4%:x=(w-text_w)/2:y=(h-text_h)/2-100" -frames:v 1 WT820x312.png
+set BASE_COLOR_TMI=A555EC
+set FONT_FILE=fonts/FjallaOne-Regular.ttf
+
+rem fb/linkedIN logo MultiText
+ffmpeg -y -f lavfi -i color=%BASE_COLOR_TMI%:s=180x180 -vf  "drawtext=text='THE':fontfile=%FONT_FILE%:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-55,drawtext=text='MOTIVATED':fontfile=%FONT_FILE%:fontsize=45:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2,drawtext=text='INC.':fontfile=%FONT_FILE%:fontsize=60:fontcolor=yellow:x=(w-text_w)/2:y=(h-text_h)/2+55" -frames:v 1 TMI180x180MULTILINETEXT.png
+
+
+rem LI Cover image
+
+ffmpeg -y -f lavfi -i color=black:s=1128x191 -vf  "drawtext=text='THE MOTIVATED INC.':fontfile=%FONT_FILE%:fontsize=100:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-45,drawtext=text='EMPOWER. INSPIRE. RISE.':fontfile=%FONT_FILE%:fontsize=50:fontcolor=yellow:x=(w-text_w)/2:y=(h-text_h)/2 +30" -frames:v 1 TMI1128x191.png
+
+
+rem FB Cover image
+ffmpeg -y -f lavfi -i color=black:s=820x312 -vf  "drawtext=text='THE MOTIVATED INC.':fontfile=%FONT_FILE_WTI%:fontsize=100:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-100,drawtext=text='EMPOWER. INSPIRE. RISE.':fontfile=%FONT_FILE_WTI%:fontsize=50:fontcolor=yellow:x=(w-text_w)/2:y=(h-text_h)/2+20,drawtext=text='WITH THEMOTIVATEDINC.COM':fontfile=%FONT_FILE_WTI%:fontsize=50:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2+70" -frames:v 1 TMI820x312.png
+
+
+========================= 10X ====================
+
+set BASE_COLOR_TMI=862B0D
+set FONT_FILE=fonts/FjallaOne-Regular.ttf
+
+rem fb/linkedIN logo MultiText
+ffmpeg -y -f lavfi -i color=%BASE_COLOR_TMI%:s=180x180 -vf  "drawtext=text='1 0 X':fontfile=%FONT_FILE%:fontsize=60:fontcolor=yellow:x=(w-text_w)/2:y=(h-text_h)/2-20,drawtext=text='PRODUCTIVITY':fontfile=%FONT_FILE%:fontsize=30:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2 + 25" -frames:v 1 10XProd180x180MULTILINETEXT.png
+
+ffmpeg -y -f lavfi -i color=black:s=2048X1152 -vf  "drawtext=text='10X PRODUCTIVTY':fontfile=%FONT_FILE%:fontsize=300:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-200,drawtext=text='UNLOCK YOUR FULL POTENTIAL':fontfile=%FONT_FILE%:fontsize=150:fontcolor=yellow:x=(w-text_w)/2:y=(h-text_h)/2 +30,drawtext=text='ELEVATE YOUR PRODUCTIVITY TO NEW HEIGHTS!':fontfile=%FONT_FILE%:fontsize=100:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2 +250" -frames:v 1 10XP2048X1152.png
